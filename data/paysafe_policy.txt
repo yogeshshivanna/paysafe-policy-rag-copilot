@@ -1,0 +1,7 @@
+[Travel & Flight Policy - Section 1] Domestic economy flights up to ₹8,000 do not require prior manager approval. Any flight costing more than ₹8,000 or any international flight requires VP approval at least 7 days before travel.
+
+[Internet & WFH Policy - Section 2] Full-time employees working remotely can claim up to ₹1,500 per month for home broadband internet. A valid GST invoice in the employee's name must be uploaded by the 5th of every month.
+
+[Sick & Casual Leave Policy - Section 3] Employees receive 12 paid sick leaves per calendar year. Unused sick leaves expire on December 31st and cannot be carried forward or encashed.
+
+[Hardware & Laptop Security - Section 4] Company laptops must never be left unattended in public places. Personal USB drives are strictly blocked, and any lost device must be reported to IT Security within 2 hours.

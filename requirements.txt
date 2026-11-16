@@ -1,0 +1,7 @@
+psycopg2-binary
+pgvector
+fastembed
+groq
+fastapi
+uvicorn
+pydantic-settings
